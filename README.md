@@ -17,4 +17,4 @@ This project was created as part of a class assignment to practice the MVC struc
 
 ---
 
->  First commit: `Initial working version`
+>  First commit: `Upload base project structure`
